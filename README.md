@@ -33,3 +33,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danukarangith&show_icons=true&locale=en" alt="danukarangith" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danukarangith&" alt="danukarangith" /></p>
+###
+
+<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
+
+###
+
+<h5 align="center">For More Information, Please Check Out or Contact Me Via Instergram Account<br>😍 Thanks for watching my profile! Have a nice day! 😉<br>© 2023 Danuka Rangith</h5>
+
+###
