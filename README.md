@@ -1,7 +1,7 @@
- ![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.purestorage.com%2Fknowledge%2Fwhat-is-software-defined-storage.html&psig=AOvVaw1NNl_FCMWLWWf43Rn6xEzu&ust=1698939525823000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDkvImRo4IDFQAAAAAdAAAAABAG)
+  
 <h1 align="center">Hi 👋, I'm Danuka Rangith kavinda</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1hFm6r3-wbaW6qZAde_zoU&ust=1698939299816000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjakZ6Qo4IDFQAAAAAdAAAAABAE">
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danukarangith&label=Profile%20views&color=0e75b6&style=flat" alt="danukarangith" /> </p>
 
