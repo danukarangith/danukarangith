@@ -1,12 +1,4 @@
-<div align="center">
  
-</div>
-<div align="center">
-<br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+;Danuka+Rangith+;Welcome+to+My+Profile!+;Ok..+Let's+go"
-</div>
-<div align="center">
-</div>
 
   
  
