@@ -17,7 +17,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danukarangith&" alt="danukarangith" /></p>
 ###
 
-<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
+ 
  
  
 
